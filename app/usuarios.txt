@@ -1,0 +1,13 @@
+-- EMPLEADOS --
+
+Correo:		alejandrojavierlemi@gmail.com
+Contraseña:	2486
+
+
+-- CLIENTES --
+
+Correo:		aleycobalto@gmail.com
+Contraseña:	1478963
+
+Correo:		lopez@gmail.com
+Contraseña:	12345
