@@ -53,11 +53,11 @@ git clone https://github.com/SantiZurlo/TicketTp.git
 http://localhost/tickettp/
 
 ## 📸  Imagenes de la página
-![Inicio](assets/foto1)
-![Espectaculo](assets/foto2)
-![Panel de admin](assets/foto3)
-![Detalle de ventas](assets/foto4)
-![Modificacion de Espectaculos](assets/foto5)
+![Inicio](assets/foto1.png)
+![Espectaculo](assets/foto2.png)
+![Panel de admin](assets/foto3.png)
+![Detalle de ventas](assets/foto4.png)
+![Modificacion de Espectaculos](assets/foto5.png)
 
 ## Autor 
 Santiago Zurlo
